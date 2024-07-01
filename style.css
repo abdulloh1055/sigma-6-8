@@ -1,0 +1,21 @@
+body{
+    background-color: gold;
+    color: white;
+    display: flex; 
+    justify-content: center;
+    color: black;
+    border: none;
+}
+
+form{
+    background-color: white;
+    border-radius: 10px;
+}
+
+button{
+    background-color: green;
+    border-radius: 19px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
